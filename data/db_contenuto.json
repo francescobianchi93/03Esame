@@ -1,0 +1,34 @@
+{
+    "logo": {
+      "src": "logo.png",
+      "alt": "Logo YouCan"
+    },
+    "menu": [
+      {
+        "testo": "Home",
+        "link": "homepage.php"
+      },
+      {
+        "testo": "Chi siamo",
+        "link": "chisiamo.php"
+      },
+      {
+        "testo": "Contatti",
+        "link": "contatti.php"
+      },
+      {
+        "testo": "Login",
+        "link": "https://courses.youcanmath.com/login"
+      }
+    ],
+    "titolo_sezione": "Perchè scegliere Youcan?",
+    "video": {
+      "src": "tuo_video.mp4",
+      "fallback_text": "Il tuo browser non supporta il tag video."
+    },
+    "bottone": {
+      "testo": "Scarica l'App",
+      "link": "link_alla_tua_pagina.html"
+    }
+  }
+  

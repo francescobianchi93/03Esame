@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+}
+.dashboard-container {
+    width: 80%;
+    margin: auto;
+    padding-top: 20px;
+}
+.dashboard-menu {
+    margin: 20px 0;
+}
+.dashboard-menu ul {
+    list-style-type: none;
+    padding: 0;
+}
+.dashboard-menu ul li {
+    display: inline;
+    margin-right: 10px;
+}
+.dashboard-menu a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+}
+.dashboard-menu a:hover {
+    text-decoration: underline;
+}

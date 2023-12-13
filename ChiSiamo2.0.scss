@@ -1,0 +1,62 @@
+@import 'variabili';
+@import 'common';
+
+#chi-siamo {
+    padding: 20px;
+    margin: 20px;
+    margin-top: 100px;
+    background: $bianco;
+
+    h1 {
+        padding: 10px;
+        font-size: 35px;
+        margin-bottom: 10px;
+        text-align: center;
+        color: $blu-scuro; 
+    }
+
+    .paragrafo-storia {
+        font-size: 22px;
+        line-height: 30px;
+        margin: 20px;
+        text-align: justify;
+    }
+}
+
+#la-nostra-idea, #squadra, #vision {
+    box-shadow: 2px 2px 12px $Shadow-Box-Color;
+    margin: 30px 10px 30px 10px;
+    padding: 12px 12px 12px 12px;
+}
+
+#la-nostra-squadra {
+    padding: 5px;
+
+    figure {
+        padding-left: 5px;
+        text-align: center;
+        display: inline-block;
+        transition: transform 0.3s ease; /* Aggiunto per una transizione fluida */
+
+        &:hover {
+            transform: scale(1.15); /* Ingrandisce sia l'immagine che la didascalia del 20% */
+        }
+    }
+
+    img {
+        width: 260px; /* imposta la larghezza dell'immagine */
+        height: auto; /* mantiene il rapporto d'aspetto dell'immagine */
+        display: block; /* rende l'immagine un blocco, utile per la separazione dalla didascalia */
+    }
+
+    figcaption {
+        text-align: center; /* centra la didascalia sotto l'immagine */
+    }
+}
+
+#testo-pensiero {
+    font-size: 22px;
+    line-height: 30px;
+    margin: 20px;
+    text-align: justify;
+}

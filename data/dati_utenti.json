@@ -1,0 +1,23 @@
+[
+    {
+        "nome": "francesco",
+        "cognome": "bianchi",
+        "email": "francescobianchi180@gmail.com",
+        "telefono": "3341557862",
+        "messaggio": "Scrivici le tue richieste..."
+    },
+    {
+        "nome": "claudio",
+        "cognome": "paolicelli",
+        "email": "claudiopaolicelli1@gmail.com",
+        "telefono": "3302334567",
+        "messaggio": "Scrivici le tue richieste..."
+    },
+    {
+        "nome": "federico",
+        "cognome": "benedetti",
+        "email": "federicobenedetti@gmail.com",
+        "telefono": "3339521775",
+        "messaggio": "Scrivici le tue richieste..."
+    }
+]

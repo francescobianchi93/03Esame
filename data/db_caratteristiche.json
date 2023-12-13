@@ -1,0 +1,20 @@
+[
+    {
+        "id" : 1,
+        "title" : "Sempre disponibile",
+        "img" : "icons8-location.gif",
+        "description" : "Accessibile H24, migliaia di videolezioni, correttore di esercizi fotografico, Intelligenza artificiale a disposizione, esercitazioni illimitate"
+    },
+    {
+        "id" : 2,
+        "title" : "Personalizzato",
+        "img" : "icons8-services.gif",
+        "description" : "YouCan è uno strumento concepito per adattarsi a tutte le tue esigenze"
+    },
+    {
+        "id" : 3,
+        "title" : "Disdici quando vuoi",
+        "img" : "icons8-clock.gif",
+        "description" : "Abbonati e disdici quando vuoi. Con YouCan non hai vincoli"
+    }
+]

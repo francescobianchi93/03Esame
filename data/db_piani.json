@@ -1,0 +1,49 @@
+{
+    "piani": [
+        {
+            "titolo": "Standard",
+            "prezzo": "€8,99/mese",
+            "features": [
+                "1000 Videolezioni",
+                "1 dispositivo su cui utilizzare la piattaforma",
+                "Assistenza tramite IA (2 richieste al giorno)",
+                "Correttore fotografico degli esercizi (2 richieste al giorno)"
+            ],
+            "link_prova": "link-di-acquisto",
+            "prezzo_prova": "Prova Settimanale a €2,99",
+            "sottotitolo": "Dopo 7 giorni €8,99/mese",
+            "link_mensile": "link-di-acquisto",
+            "prezzo_mensile": "Piano Mensile a €8.99/mese"
+        },
+        {
+            "titolo": "Premium",
+            "prezzo": "€12,99/mese",
+            "features": [
+                "Oltre 2000 Videolezioni",
+                "2 dispositivo su cui utilizzare la piattaforma",
+                "Assistenza tramite IA (5 richieste al giorno)",
+                "Correttore fotografico degli esercizi (5 richieste al giorno)"
+            ],
+            "link_prova": "link-di-acquisto",
+            "prezzo_prova": "Prova Settimanale a €4,99",
+            "sottotitolo": "Dopo 7 giorni €12,99/mese",
+            "link_mensile": "link-di-acquisto",
+            "prezzo_mensile": "Piano Mensile a €12.99/mese"
+        },
+        {
+            "titolo": "Platinum",
+            "prezzo": "€19,99/mese",
+            "features": [
+                "Accesso a tutte le Videolezioni",
+                "3 dispositivi su cui utilizzare la piattaforma",
+                "Assistenza tramite IA (illimitata)",
+                "Correttore fotografico degli esercizi (illimitato)"
+            ],
+            "link_prova": "link-di-acquisto",
+            "prezzo_prova": "Prova Settimanale a €6,99",
+            "sottotitolo": "Dopo 7 giorni €19,99/mese",
+            "link_mensile": "link-di-acquisto",
+            "prezzo_mensile": "Piano Mensile a €19.99/mese"
+        }
+    ]
+}

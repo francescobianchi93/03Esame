@@ -1,0 +1,35 @@
+{
+    "chiSiamo": {
+      "titolo": "La nostra idea",
+      "testo": "Noi siamo Francesco Bianchi e Alessio Giannini, due amici e docenti di Matematica con anni di esperienza alle spalle. Entrambi abbiamo scelto questo lavoro perché amiamo insegnare ai ragazzi e proprio per questo li abbiamo aiutati e ascoltati per anni. Grazie alla nostra esperienza e dopo anni di lezioni collettive e individuali, abbiamo capito che dovevamo fare di più, dovevamo riuscire ad essere al fianco dei nostri studenti anche durante le ore di studio individuale a casa, quando la nostra presenza fisica era impossibile. Per questo abbiamo deciso di creare una piattaforma di apprendimento della matematica che permettesse ai ragazzi di aumentare le performance del loro studio individuale rendendolo più efficace e, dando a ciascuno la possibilità di studiare quando e dove vuole, svincolato dagli orari di chiunque altro. "
+    },
+    "squadra": [
+      {
+        "nome": "Francesco Bianchi",
+        "immagine": "img-semple-squadra.png",
+        "descrizione": "Co-fondatore e docente"
+        
+      },
+      {
+        "nome": "Alessio Giannini",
+        "immagine": "img-semple-squadra.png",
+        "descrizione": "Co-fondatore e docente"
+      },
+      {
+        "nome": "Claudio Paolicelli",
+        "immagine": "img-semple-squadra.png",
+        "descrizione": "Membro del team"
+      },
+      {
+        "nome": "Alessandro Bianchi",
+        "immagine": "img-semple-squadra.png",
+        "descrizione": "Membro del team"
+      }
+    ],
+    "vision": {
+      "titolo": "La Nostra Vision",
+      "testo": "YouCan lo immagino come un faro di speranza per il mondo che c’è e soprattutto per il mondo che ancora deve essere. Immagino il momento in cui il mio sogno sarà condiviso e vedrò persone sorridenti, che vedranno la bellezza della cultura alla portata di tutti, per davvero, in pochi click si potrà ascoltare e vedere tutta la matematica, la fisica e ogni altra materia che le persone vorranno apprendere. Ma non sono solo informazioni catalogate, YouCan è dare la possibilità di liberarsi dal pregiudizio, dall’ignoranza, dalla non conoscenza. Immagino un’istruzione libera con milioni di studenti che studiano non solo per “obbligo” ma perché sono appagati nel farlo. Interessati. Stimolati. Non più legati solo ad una scala valutativa da 0 a 10. Immagino la creazione di un ambiente che permetta loro di esprimersi senza la paura di sembrare inopportuni o fuori luogo. Immagino ragazzi più grandi che parlano con i più piccoli, spiegando gli argomenti in mille modi diversi. Immagino milioni di ragazzi provenienti da tutto il mondo comunicare tra loro, crescendo insieme ed eliminando tante barriere sociali ad oggi inamovibili. Immagina cosa si potrebbe ottenere con una generazione che guarda dall’altra parte del mondo e vede un “fratello” e non uno straniero, immagina cosa accadrebbe con 10 anni di istruzione così. Immagino questa realtà crescere ed espandersi creando una rete di informazioni grandiosamente accessibile anche per chi nel mondo ora non ha diritto di imparare. Portare la luce della cultura a chi non vede altro che buio, dare l’opportunità di scegliere chi si vuole essere con la semplicità di uno schermo e una connessione da qualunque angolo della Terra. Immagino YouCan come l’azienda che dà non la seconda chance ma la prima.Immagino di arrivare nei cuori delle persone, dei ragazzi, dei bambini e di coloro che non hanno niente e spiegar loro che se non aprono la mente alla cultura non fanno un torto solo a loro stessi ma a tutto il mondo, perché nessuno può sapere se dentro di sè ha un giovane Steve Jobs o un futuro premio Nobel per la pace. Vorrei dir loro che possono essere qualcuno che ancora non sanno nemmeno di poter essere e anche se solo uno su un milione avrà preso la decisione di dire no alle strade sbagliate perché avrà visto una lezione, di un corso qualsiasi, su uno schermo nella sua stanza, allora non sarà solo merito di YouCan ma di tutti coloro che avranno condiviso quel video e quell’idea fino a quel ragazzo. Vorrà dire che tutti insieme saremo riusciti a regalare un uomo o una donna appagati in più sulla Terra…Non è forse il più bello dei sogni? Francesco Bianchi"
+    }
+  }
+    
+  

@@ -1,0 +1,30 @@
+{
+    "video_recensioni": [
+        {
+            "src": "percorso/video1.mp4",
+            "nome": "Nome Studente 1"
+        },
+        {
+            "src": "percorso/video2.mp4",
+            "nome": "Nome Studente 2"
+        },
+        {
+            "src": "percorso/video3.mp4",
+            "nome": "Nome Studente 3"
+        }
+    ],
+    "testo_recensioni": [
+        {
+            "nome": "Nome Cliente 1",
+            "testo": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero."
+        },
+        {
+            "nome": "Nome Cliente 2",
+            "testo": "Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet."
+        },
+        {
+            "nome": "Nome Cliente 3",
+            "testo": "Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta."
+        }
+    ]
+}
