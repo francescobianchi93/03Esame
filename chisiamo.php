@@ -4,6 +4,7 @@
 
 <body>
 <?php
+#commento
 try {
     require_once './Backend_Database/db_config.php'; // Includi il file di configurazione del database
 
